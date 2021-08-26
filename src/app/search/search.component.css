@@ -1,0 +1,11 @@
+.search{
+    max-width: 600 px;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 18px;
+}
+input{
+    border-radius: 10px;
+    width: 80%;
+    margin-top: 20px;
+}
